@@ -1,9 +1,9 @@
 Completed hackerrank course using email
-sadia.tasnim@g.bracu.ac.bd
+sadia.tasnim2@g.bracu.ac.bd
 https://www.hackerrank.com/certificates/iframe/6672b7e7f3fd
 
 Completed Datacamp courses using email
-sadia.tasnim@g.bracu.ac.bd
+sadia.tasnim2@g.bracu.ac.bd
 https://app.datacamp.com/learn/courses/intro-to-python-for-data-science
 https://app.datacamp.com/learn/courses/cleaning-data-in-python
 https://app.datacamp.com/learn/courses/feature-engineering-for-machine-learning-in-python

@@ -5,7 +5,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/....
 
 Paper title:
-Split_Federated_Learning_for_Emotion_Detection
+Split Federated Learning for Emotion Detection
 
 Link to the paper:
 https://ieeexplore.ieee.org/document/9942417

@@ -1,8 +1,8 @@
 Link to unlisted YouTube video:
-https://youtu.be/....
+https://youtu.be/bKkg_GU3JFY
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/....
+https://docs.google.com/presentation/d/1YY5aKNwQFtOryNIB6DYOCNeT1_jJJ-5-K0jHEIcYkTU/edit?usp=sharing
 
 Paper title:
 Split Federated Learning for Emotion Detection
